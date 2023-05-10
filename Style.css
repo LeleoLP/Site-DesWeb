@@ -8,6 +8,14 @@
     src: url("Fontes/DeliciousHandrawn-Regular.ttf") format("truetype");
 }
 
+.topo {
+    background-color: #000000;
+}
+
+.topo h1 {
+    color: #ffffff;
+}
+
 button {
     font-family: "Botoes";
     background-color: #000000;

@@ -8,7 +8,7 @@
     src: url("Fontes/DeliciousHandrawn-Regular.ttf") format("truetype");
 }
 
-ul {
+nav ul {
     font-family: "Botoes";
     background-color: #000000;
     color: #ffffff;

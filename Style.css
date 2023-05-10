@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "Botoes";
+    src: url("Fontes/Alkatra.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "texto";
+    src: url("Fontes/DeliciousHandrawn-Regular.ttf") format("truetype");
+}
+
+ul {
+    font-family: "Botoes";
+    background-color: #000000;
+    color: #ffffff;
+    padding: 10px;
+}
+
+ul:hover{
+    background-color: #006eff ;
+}
+
+p {
+    font-family: "texto";
+    margin-left: 8px;
+}
+
+h1 {
+    font-family: "texto";
+    font-size: 28px;
+}
+
+h2 {
+    font-family: "texto";
+    font-size: 24px;
+}
+
+

@@ -12,7 +12,8 @@ button {
     font-family: "Botoes";
     background-color: #000000;
     color: #ffffff;
-    padding: 10px;
+    padding: 10px 12px;
+    border-radius: 10px;
 }
 
 button:hover{

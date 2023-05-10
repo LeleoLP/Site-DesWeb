@@ -52,7 +52,7 @@ h2 {
   /* Estilo para o rodapé */
 }
 
-.menu-footer a {
+.menu-footer .social-media-links {
     justify-content: left;
     width: 20px;
     height: 20px;

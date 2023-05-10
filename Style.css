@@ -39,4 +39,11 @@ h2 {
     font-size: 24px;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* Estilo para o rodapé */
+}
 

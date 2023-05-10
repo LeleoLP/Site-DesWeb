@@ -51,3 +51,6 @@ h2 {
   /* Estilo para o rodapé */
 }
 
+.footer a {
+    font-size: 10px;
+}

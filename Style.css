@@ -58,6 +58,6 @@ h2 {
     height: 10px;
     padding-top: 28px;
     padding-bottom: 28px;
-    display: inline-block;
+    display: flex;
     margin-right: 10px;
 }

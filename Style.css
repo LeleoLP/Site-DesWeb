@@ -52,11 +52,16 @@ h2 {
   /* Estilo para o rodapé */
 }
 
-.menu-footer a {
+.menu-footer .social-media-links {
     justify-content: left;
     width: 20px;
     height: 20px;
     padding-top: 28px;
     padding-bottom: 28px;
     display: flex;
+}
+
+.social-media-links {
+    display: inline-block;
+    margin-right: 10px;
 }

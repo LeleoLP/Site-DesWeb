@@ -42,12 +42,12 @@ h2 {
 }
 
 .menu-footer {
-  background-color: #000000;
+  background-color: #616161;
   font-family: arial;
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 100%;
+  width: 50%;
   /* Estilo para o rodapé */
 }
 

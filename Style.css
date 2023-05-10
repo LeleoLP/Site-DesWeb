@@ -42,17 +42,21 @@ h2 {
 }
 
 .menu-footer {
-  background-color: #616161;
+  background-color: #acacac;
   font-family: arial;
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 400px;
-  height: 50px;
+  width: 1000px;
+  height: 400px;
   /* Estilo para o rodapé */
 }
 
 .menu-footer a {
-    width: 10px;
-    height: 10px;
+    justify-content: left;
+    width: 20px;
+    height: 20px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    display: flex;
 }

@@ -15,7 +15,7 @@ button {
     padding: 10px;
 }
 
-ul:hover{
+button:hover{
     background-color: #006eff ;
 }
 

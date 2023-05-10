@@ -51,7 +51,7 @@ h2 {
   /* Estilo para o rodapé */
 }
 
-a {
+.menu-footer a {
     width: 10px;
     height: 10px;
 }

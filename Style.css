@@ -8,8 +8,12 @@
     src: url("Fontes/DeliciousHandrawn-Regular.ttf") format("truetype");
 }
 
+.texts {
+    background color: #000000;
+}
+
 .topo h1 {
-    color: #000000;
+    color: #ffffff;
 }
 
 button {
@@ -27,6 +31,7 @@ button:hover{
 }
 
 p {
+    color: #ffffff;
     font-family: "texto";
     margin-left: 8px;
 }

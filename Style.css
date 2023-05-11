@@ -45,13 +45,12 @@ h2 {
   background-color: #acacac;
   font-family: arial;
   left: 0;
-  bottom: 0;
   /* Estilo para o rodapé */
 }
 
 .social-media-links {
     justify-content: right;
-    width: 50px;
-    height: 50px;
+    width: 20px;
+    height: 20px;
     margin-right: 10px;
 }

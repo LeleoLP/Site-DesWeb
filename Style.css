@@ -46,7 +46,7 @@ h2 {
   font-family: arial;
   font-weight: bold;
   left: 0;
-  bottom: 0;
+  bottom: 100px;
   width: 100%;
   height: 200px;
   /* Estilo para o rodapé */

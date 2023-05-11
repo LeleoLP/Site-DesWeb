@@ -30,7 +30,7 @@ button:hover{
     background-color: black;
     width: 100%;
     height: auto;
-    justify-content: center;
+    float: center;
 }
 
 .quadradopreto p {

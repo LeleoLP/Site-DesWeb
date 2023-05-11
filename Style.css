@@ -26,21 +26,10 @@ button:hover{
     background-color: #006eff ;
 }
 
-.quadradopreto {
-    background-color: black;
-    width: 100%;
-    height: auto;
-    display: flex;
-    justify-content: left;
-}
-
-.quadradopreto p {
-    color: #ffffff;
-    font-family: "texto";
-}
-
 p {
-   font-family: "texto";
+    color: #000000;
+    font-family: "texto";
+    margin-left: 10px;
 }
 
 h1 {

@@ -34,12 +34,14 @@ p {
 
 h1 {
     font-family: "texto";
-    font-size: 28px;
+    font-size: 30px;
+    margin-left: 10px;
 }
 
 h2 {
     font-family: "texto";
     font-size: 26px;
+    margin-left: 10px;
 }
 
 .menu-footer {

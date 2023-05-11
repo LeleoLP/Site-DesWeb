@@ -50,6 +50,9 @@ h2 {
   /* Estilo para o rodapé */
 }
 
+.menu-footer adress {
+  font-weight: bold;
+
 .menu-footer .social-media-links  img {
     align-items: right;
     margin-left: 20px;

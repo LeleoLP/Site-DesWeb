@@ -36,6 +36,7 @@ p {
     color: #ffffff;
     font-family: "texto";
     margin-left: 8px;
+    justify-content: center;
 }
 
 h1 {

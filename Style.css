@@ -64,7 +64,7 @@ h2 {
     height: 50px;
 }
 
-.menu-footer:hover {
+.menu-footer img:hover {
     background-color: #006eff;
     background-size: 40px;
 }

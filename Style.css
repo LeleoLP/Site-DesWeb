@@ -12,7 +12,7 @@
     color: #000000;
 }
 
-ul li {
+.menu li a {
     font-family: "Botoes";
     font-size: 14px;
     background-color: #ffffff;
@@ -23,9 +23,14 @@ ul li {
     margin-left: 5px;
 }
 
-ul li:hover{
+.menu li a:hover::after{
     background-color: #006eff ;
 }
+
+.menu li a span:hover {
+	color: #006eff;
+	background-color: #006eff00;
+  }
 
 p {
     color: #000000;

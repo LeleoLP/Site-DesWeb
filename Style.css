@@ -29,42 +29,7 @@ li:hover{
 }
 
 @media screen and (max-width: 900px)
-    {
-        .sidebar img
-        {
-            width: 40px;
-        }
-        
-        nav 
-        {
-            background-color: #000000;
-            left: -350px;
-            position: absolute;
-        }
-        
-        label
-        {
-            padding: 15px;
-            position: absolute;
-        }
-        
-        input[type="checkbox"]:checked ~ nav
-        {
-            transform: translateX(350px);
-        }
-        
-        ul 
-        {
-            background-color: #acacac;
-            top: 50px;
-            position: absolute;
-        }
-}
 
-input[type="checkbox"]
-{
-    display: none;
-}
 
 p {
     color: #000000;

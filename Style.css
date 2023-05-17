@@ -12,17 +12,7 @@
     color: #000000;
 }
 
-.mobilemenu {
-      display: none; 
-    }
-    
-    @media only screen and (max-width: 768px) {
-      .desktopmenu {
-        display: none; 
-      }
-    }
-
-.desktopmenu li {
+li {
     font-family: "Botoes";
     font-size: 14px;
     background-color: #ffffff;
@@ -34,12 +24,9 @@
     text-decoration: none;
 }
 
-.desktopmenu li:hover{
+li:hover{
     background-color: #006eff ;
 }
-
-@media screen and (max-width: 900px)
-
 
 p {
     color: #000000;

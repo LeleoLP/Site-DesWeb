@@ -22,7 +22,7 @@
       }
     }
 
-li {
+.desktopmenu li {
     font-family: "Botoes";
     font-size: 14px;
     background-color: #ffffff;
@@ -34,7 +34,7 @@ li {
     text-decoration: none;
 }
 
-li:hover{
+.desktopmenu li:hover{
     background-color: #006eff ;
 }
 

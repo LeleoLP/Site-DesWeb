@@ -8,6 +8,12 @@
     src: url("Fontes/DeliciousHandrawn-Regular.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: "Dosis";
+    src: url("Fontes/Dosis-VariableFont_wght.ttf") format("truetype");
+}
+
+
 .topo h1 {
     color: #000000;
 }
@@ -43,18 +49,18 @@
 
 p {
     color: #000000;
-    font-family: "texto";
+    font-family: "Dosis";
     margin-left: 10px;
 }
 
 h1 {
-    font-family: "texto";
+    font-family: "Dosis";
     font-size: 30px;
     margin-left: 10px;
 }
 
 h2 {
-    font-family: "texto";
+    font-family: "Dosis";
     font-size: 26px;
     margin-left: 10px;
 }
@@ -64,7 +70,7 @@ h2 {
   left: 0;
   bottom: 0;
   width: 100%;
-  height: 50px;
+  height: 25em;
   background-color: #acacac;
   font-family: arial;
   font-weight: bold;

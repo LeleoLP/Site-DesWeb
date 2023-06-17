@@ -17,7 +17,11 @@
     color: #000000;
     font-size: 50px;
 }
-	
+
+.nameloja {
+    font-size: 50px;
+}
+
 .menu {
     list-style: none;	
     float:inline-start;

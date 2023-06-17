@@ -94,3 +94,17 @@ h2 {
     background-size: 20px;
     border-radius: 15px;
 }
+
+a.links:link{
+    text-decoration:solid;
+}
+
+a.links:visited {
+    text-decoration: none;
+    color: #ff6600;
+}
+
+a.links:hover {
+    color: #006eff;
+    opacity: 0.8;
+}

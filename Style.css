@@ -13,10 +13,12 @@
     src: url("Fontes/Dosis-VariableFont_wght.ttf") format("truetype");
 }
 
-
 .topo h1 {
     color: #000000;
 }
+
+.nameloja h1 {
+    font-size: 36px;
 
 .menu {
     list-style: none;	

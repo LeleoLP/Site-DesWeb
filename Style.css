@@ -82,12 +82,12 @@ h2 {
   padding-bottom: 20px; 
 }
 
-.camisetasfemininas-hover {
+.camisetasfemininas {
   position: relative;
   display: inline-block;
 }
 
-.camisetasfemininas-hover::before {
+.camisetasfemininas::before {
   content: '';
   position: absolute;
   top: 0;
@@ -99,7 +99,7 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camisetasfemininas-hover:hover::before {
+.camisetasfemininas:hover::before {
   opacity: 1;
 }
 

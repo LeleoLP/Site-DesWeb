@@ -67,7 +67,7 @@ h2 {
 }
 
 .menu-footer {
-  position: fixed; /* Altera a posição para fixa */
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -77,10 +77,30 @@ h2 {
   font-weight: bold;
   display: flex;
   justify-content: center;
-  align-items: center; /* Centraliza verticalmente o conteúdo */
+  align-items: center;
   padding-top: 20px;
-  padding-bottom: 20px; /* Reduz o preenchimento inferior para 20px */
-  /* Estilo para o rodapé */
+  padding-bottom: 20px; 
+}
+
+.camisetafeminina-hover {
+  position: relative;
+  display: inline-block;
+}
+
+.camisetafeminina-hover::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.camisetafeminina-hover:hover::before {
+  opacity: 1;
 }
 
 .menu-footer .social-media-links  img {

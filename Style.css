@@ -188,6 +188,92 @@ h2 {
   opacity: 1;
 }
 
+/*linha 2*/
+
+.camiseta6 {
+  position: relative;
+  display: inline-block;
+}
+
+.camiseta6::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.camiseta6:hover::before {
+  opacity: 1;
+}
+
+.camiseta7 {
+  position: relative;
+  display: inline-block;
+}
+
+.camiseta7::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.camiseta7:hover::before {
+  opacity: 1;
+}
+
+.camiseta8 {
+  position: relative;
+  display: inline-block;
+}
+
+.camiseta8::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.camiseta8:hover::before {
+  opacity: 1;
+}
+
+.camiseta9 {
+  position: relative;
+  display: inline-block;
+}
+
+.camiseta9::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.camiseta9:hover::before {
+  opacity: 1;
+}
+
 /* Footer */
 
 .menu-footer .social-media-links  img {

@@ -146,6 +146,48 @@ h2 {
   opacity: 1;
 }
 
+.camiseta4 {
+  position: relative;
+  display: inline-block;
+}
+
+.camiseta4::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.camiseta4:hover::before {
+  opacity: 1;
+}
+
+.camiseta5 {
+  position: relative;
+  display: inline-block;
+}
+
+.camiseta5::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.camiseta5:hover::before {
+  opacity: 1;
+}
+
 /* Footer */
 
 .menu-footer .social-media-links  img {

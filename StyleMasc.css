@@ -1,0 +1,953 @@
+/*Moda Masculina*/
+
+.camisetamasc1 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc1::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc1:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc2 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc2:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc3 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc3::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc3:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc4 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc4::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc4:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc5 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc5::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc5:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc6 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc6::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc6:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc7 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc7::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc7:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc8 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc8::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc8:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc9 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc9::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc9:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc10 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc10::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc10:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc11 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc11::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc11:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc12 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc12::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc12:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc13 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc13::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc13:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc14 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc14::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc14:hover::before {
+    opacity: 1;
+  }
+
+  .camisetamasc15 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .camisetamasc15::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .camisetamasc15:hover::before {
+    opacity: 1;
+  }
+
+
+/*Shorts Masculinos*/
+
+.shortmasc1 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .shortmasc1::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .shortmasc1:hover::before {
+    opacity: 1;
+  }
+
+  .shortmasc2 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .shortmasc2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .shortmasc2:hover::before {
+    opacity: 1;
+  }
+
+  .shortmasc3 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .shortmasc3::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .shortmasc3:hover::before {
+    opacity: 1;
+  }
+
+  .shortmasc4 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .shortmasc4::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .shortmasc4:hover::before {
+    opacity: 1;
+  }
+
+  .shortmasc5 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .shortmasc5::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .shortmasc5:hover::before {
+    opacity: 1;
+  }
+
+  .shortmasc6 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .shortmasc6::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .shortmasc6:hover::before {
+    opacity: 1;
+  }
+
+  .shortmasc7 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .shortmasc7::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .shortmasc7:hover::before {
+    opacity: 1;
+  }
+
+  .shortmasc8 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .shortmasc8::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .shortmasc8:hover::before {
+    opacity: 1;
+  }
+
+  .shortmasc9 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .shortmasc9::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .shortmasc9:hover::before {
+    opacity: 1;
+  }
+
+  .shortmasc10 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .shortmasc10::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .shortmasc10:hover::before {
+    opacity: 1;
+  }
+
+/*Calça Masculina*/
+
+.calçamasc1 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .calçamasc1::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .calçamasc1:hover::before {
+    opacity: 1;
+  }
+
+  .calçamasc2 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .calçamasc2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .calçamasc2:hover::before {
+    opacity: 1;
+  }
+
+  .calçamasc3 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .calçamasc3::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .calçamasc3:hover::before {
+    opacity: 1;
+  }
+
+  .calçamasc4 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .calçamasc4::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .calçamasc4:hover::before {
+    opacity: 1;
+  }
+
+  .calçamasc5 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .calçamasc5::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .calçamasc5:hover::before {
+    opacity: 1;
+  }
+
+  .calçamasc6 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .calçamasc6::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .calçamasc6:hover::before {
+    opacity: 1;
+  }
+
+  .calçamasc7 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .calçamasc7::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .calçamasc7:hover::before {
+    opacity: 1;
+  }
+
+  .calçamasc8 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .calçamasc8::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .calçamasc8:hover::before {
+    opacity: 1;
+  }
+
+  .calçamasc9 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .calçamasc9::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .calçamasc9:hover::before {
+    opacity: 1;
+  }
+
+  .calçamasc10 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .calçamasc10::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .calçamasc10:hover::before {
+    opacity: 1;
+  }
+
+/*Moletom masculino*/
+
+.moletommasc1 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moletommasc1::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .moletommasc1:hover::before {
+    opacity: 1;
+  }
+
+  .moletommasc2 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moletommasc2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .moletommasc2:hover::before {
+    opacity: 1;
+  }
+
+  .moletommasc3 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moletommasc3::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .moletommasc3:hover::before {
+    opacity: 1;
+  }
+
+  .moletommasc4 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moletommasc4::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .moletommasc4:hover::before {
+    opacity: 1;
+  }
+
+  .moletommasc5 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moletommasc5::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .moletommasc5:hover::before {
+    opacity: 1;
+  }
+
+  .moletommasc6 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moletommasc6::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .moletommasc6:hover::before {
+    opacity: 1;
+  }
+
+  .moletommasc7 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moletommasc7::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .moletommasc7:hover::before {
+    opacity: 1;
+  }
+
+  .moletommasc8 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moletommasc8::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .moletommasc8:hover::before {
+    opacity: 1;
+  }
+
+  .moletommasc9 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moletommasc9::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .moletommasc9:hover::before {
+    opacity: 1;
+  }
+
+  .moletommasc10 {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moletommasc10::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .moletommasc10:hover::before {
+    opacity: 1;
+  }

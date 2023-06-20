@@ -857,7 +857,7 @@ h2 {
   display: inline-block;
 }
 
-.noletom1::before {
+.noletomfe1::before {
   content: '';
   position: absolute;
   top: 0;
@@ -878,7 +878,7 @@ h2 {
   display: inline-block;
 }
 
-.noletom2::before {
+.noletomfe2::before {
   content: '';
   position: absolute;
   top: 0;
@@ -899,7 +899,7 @@ h2 {
   display: inline-block;
 }
 
-.noletom3::before {
+.noletomfe3::before {
   content: '';
   position: absolute;
   top: 0;
@@ -920,7 +920,7 @@ h2 {
   display: inline-block;
 }
 
-.noletom4::before {
+.noletomfe4::before {
   content: '';
   position: absolute;
   top: 0;
@@ -941,7 +941,7 @@ h2 {
   display: inline-block;
 }
 
-.noletom5::before {
+.noletomfe5::before {
   content: '';
   position: absolute;
   top: 0;
@@ -962,7 +962,7 @@ h2 {
   display: inline-block;
 }
 
-.noletom6::before {
+.noletomfe6::before {
   content: '';
   position: absolute;
   top: 0;
@@ -983,7 +983,7 @@ h2 {
   display: inline-block;
 }
 
-.noletom7::before {
+.noletomfe7::before {
   content: '';
   position: absolute;
   top: 0;
@@ -1004,7 +1004,7 @@ h2 {
   display: inline-block;
 }
 
-.noletom8::before {
+.noletomfe8::before {
   content: '';
   position: absolute;
   top: 0;
@@ -1025,7 +1025,7 @@ h2 {
   display: inline-block;
 }
 
-.noletom9::before {
+.noletomfe9::before {
   content: '';
   position: absolute;
   top: 0;
@@ -1046,7 +1046,7 @@ h2 {
   display: inline-block;
 }
 
-.noletom10::before {
+.noletomfe10::before {
   content: '';
   position: absolute;
   top: 0;

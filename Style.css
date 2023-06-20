@@ -850,6 +850,218 @@ h2 {
   opacity: 1;
 }
 
+/*Moletons Femininos*/
+/*linha 1*/
+.moletomfe1 {
+  position: relative;
+  display: inline-block;
+}
+
+.noletom1::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moletomfe1:hover::before {
+  opacity: 1;
+}
+
+.moletomfe2 {
+  position: relative;
+  display: inline-block;
+}
+
+.noletom2::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moletomfe2:hover::before {
+  opacity: 1;
+}
+
+.moletomfe3 {
+  position: relative;
+  display: inline-block;
+}
+
+.noletom3::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moletomfe3:hover::before {
+  opacity: 1;
+}
+
+.moletomfe4 {
+  position: relative;
+  display: inline-block;
+}
+
+.noletom4::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moletomfe4:hover::before {
+  opacity: 1;
+}
+
+.moletomfe5 {
+  position: relative;
+  display: inline-block;
+}
+
+.noletom5::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moletomfe5:hover::before {
+  opacity: 1;
+}
+
+.moletomfe6 {
+  position: relative;
+  display: inline-block;
+}
+
+.noletom6::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moletomfe6:hover::before {
+  opacity: 1;
+}
+
+.moletomfe7 {
+  position: relative;
+  display: inline-block;
+}
+
+.noletom7::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moletomfe7:hover::before {
+  opacity: 1;
+}
+
+.moletomfe8 {
+  position: relative;
+  display: inline-block;
+}
+
+.noletom8::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moletomfe8:hover::before {
+  opacity: 1;
+}
+
+.moletomfe9 {
+  position: relative;
+  display: inline-block;
+}
+
+.noletom9::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moletomfe9:hover::before {
+  opacity: 1;
+}
+
+.moletomfe10 {
+  position: relative;
+  display: inline-block;
+}
+
+.noletom10::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.moletomfe10:hover::before {
+  opacity: 1;
+}
+
 /* Footer */
 
 .menu-footer .social-media-links  img {

@@ -857,7 +857,7 @@ h2 {
   display: inline-block;
 }
 
-.noletomfe1::before {
+.moletomfe1::before {
   content: '';
   position: absolute;
   top: 0;

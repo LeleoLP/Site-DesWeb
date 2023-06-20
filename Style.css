@@ -83,12 +83,12 @@ h2 {
 }
 
 /*Hover camisetas femininas*/
-.camiseta1 {
+.camisetafe1 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta1::before {
+.camisetafe1::before {
   content: '';
   position: absolute;
   top: 0;
@@ -100,16 +100,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta1:hover::before {
+.camisetafe1:hover::before {
   opacity: 1;
 }
 
-.camiseta2 {
+.camisetafe2 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta2::before {
+.camisetafe2::before {
   content: '';
   position: absolute;
   top: 0;
@@ -121,16 +121,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta2:hover::before {
+.camisetafe2:hover::before {
   opacity: 1;
 }
 
-.camiseta3 {
+.camisetafe3 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta3::before {
+.camisetafe3::before {
   content: '';
   position: absolute;
   top: 0;
@@ -142,16 +142,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta3:hover::before {
+.camisetafe3:hover::before {
   opacity: 1;
 }
 
-.camiseta4 {
+.camisetafe4 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta4::before {
+.camisetafe4::before {
   content: '';
   position: absolute;
   top: 0;
@@ -163,16 +163,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta4:hover::before {
+.camisetafe4:hover::before {
   opacity: 1;
 }
 
-.camiseta5 {
+.camisetafe5 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta5::before {
+.camisetafe5::before {
   content: '';
   position: absolute;
   top: 0;
@@ -184,18 +184,18 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta5:hover::before {
+.camisetafe5:hover::before {
   opacity: 1;
 }
 
 /*linha 2*/
 
-.camiseta6 {
+.camisetafe6 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta6::before {
+.camisetafe6::before {
   content: '';
   position: absolute;
   top: 0;
@@ -207,16 +207,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta6:hover::before {
+.camisetafe6:hover::before {
   opacity: 1;
 }
 
-.camiseta7 {
+.camisetafe7 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta7::before {
+.camisetafe7::before {
   content: '';
   position: absolute;
   top: 0;
@@ -228,16 +228,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta7:hover::before {
+.camisetafe7:hover::before {
   opacity: 1;
 }
 
-.camiseta8 {
+.camisetafe8 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta8::before {
+.camisetafe8::before {
   content: '';
   position: absolute;
   top: 0;
@@ -249,16 +249,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta8:hover::before {
+.camisetafe8:hover::before {
   opacity: 1;
 }
 
-.camiseta9 {
+.camisetafe9 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta9::before {
+.camisetafe9::before {
   content: '';
   position: absolute;
   top: 0;
@@ -270,16 +270,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta9:hover::before {
+.camisetafe9:hover::before {
   opacity: 1;
 }
 
-.camiseta10 {
+.camisetafe10 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta10::before {
+.camisetafe10::before {
   content: '';
   position: absolute;
   top: 0;
@@ -291,18 +291,18 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta10:hover::before {
+.camisetafe10:hover::before {
   opacity: 1;
 }
 
 /*linha 3*/
 
-.camiseta11 {
+.camisetafe11 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta11::before {
+.camisetafe11::before {
   content: '';
   position: absolute;
   top: 0;
@@ -314,16 +314,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta11:hover::before {
+.camisetafe11:hover::before {
   opacity: 1;
 }
 
-.camiseta12 {
+.camisetafe12 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta12::before {
+.camisetafe12::before {
   content: '';
   position: absolute;
   top: 0;
@@ -335,16 +335,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta12:hover::before {
+.camisetafe12:hover::before {
   opacity: 1;
 }
 
-.camiseta13 {
+.camisetafe13 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta13::before {
+.camisetafe13::before {
   content: '';
   position: absolute;
   top: 0;
@@ -356,16 +356,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta13:hover::before {
+.camisetafe13:hover::before {
   opacity: 1;
 }
 
-.camiseta14 {
+.camisetafe14 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta14::before {
+.camisetafe14::before {
   content: '';
   position: absolute;
   top: 0;
@@ -377,16 +377,16 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta14:hover::before {
+.camisetafe14:hover::before {
   opacity: 1;
 }
 
-.camiseta15 {
+.camisetafe15 {
   position: relative;
   display: inline-block;
 }
 
-.camiseta15::before {
+.camisetafe15::before {
   content: '';
   position: absolute;
   top: 0;
@@ -398,7 +398,455 @@ h2 {
   transition: opacity 0.3s ease;
 }
 
-.camiseta15:hover::before {
+.camisetafe15:hover::before {
+  opacity: 1;
+}
+
+/*Short Feminino*/
+/*linha 1*/
+
+.shortfe1 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe1::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe1:hover::before {
+  opacity: 1;
+}
+
+.shortfe2 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe2::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe2:hover::before {
+  opacity: 1;
+}
+
+.shortfe3 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe3::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe3:hover::before {
+  opacity: 1;
+}
+
+.shortfe4 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe4::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe4:hover::before {
+  opacity: 1;
+}
+
+.shortfe5 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe5::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe5:hover::before {
+  opacity: 1;
+}
+
+/*linha 2 */
+
+.shortfe6 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe6::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe6:hover::before {
+  opacity: 1;
+}
+
+.shortfe7 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe7::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe1:hover::before {
+  opacity: 1;
+}
+
+.shortfe7 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe7::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe7:hover::before {
+  opacity: 1;
+}
+
+.shortfe8 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe8::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe8:hover::before {
+  opacity: 1;
+}
+
+.shortfe9 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe9::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe9:hover::before {
+  opacity: 1;
+}
+
+.shortfe10 {
+  position: relative;
+  display: inline-block;
+}
+
+.shortfe10::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.shortfe10:hover::before {
+  opacity: 1;
+}
+
+/*Calça Feminina*/
+/*linha 1*/
+.calçafe10 {
+  position: relative;
+  display: inline-block;
+}
+
+.calçafe1::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.calçafe1:hover::before {
+  opacity: 1;
+}
+
+.calçafe2 {
+  position: relative;
+  display: inline-block;
+}
+
+.calçafe2::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.calçafe2:hover::before {
+  opacity: 1;
+}
+
+.calçafe3 {
+  position: relative;
+  display: inline-block;
+}
+
+.calçafe3::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.calçafe3:hover::before {
+  opacity: 1;
+}
+
+.calçafe4 {
+  position: relative;
+  display: inline-block;
+}
+
+.calçafe4::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.calçafe4:hover::before {
+  opacity: 1;
+}
+
+.calçafe5 {
+  position: relative;
+  display: inline-block;
+}
+
+.calçafe5::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.calçafe5:hover::before {
+  opacity: 1;
+}
+
+.calçafe6 {
+  position: relative;
+  display: inline-block;
+}
+
+.calçafe6::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.calçafe6:hover::before {
+  opacity: 1;
+}
+
+.calçafe7 {
+  position: relative;
+  display: inline-block;
+}
+
+.calçafe7::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.calçafe7:hover::before {
+  opacity: 1;
+}
+
+.calçafe8 {
+  position: relative;
+  display: inline-block;
+}
+
+.calçafe8::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.calçafe8:hover::before {
+  opacity: 1;
+}
+
+.calçafe9 {
+  position: relative;
+  display: inline-block;
+}
+
+.calçafe9::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.calçafe9:hover::before {
+  opacity: 1;
+}
+
+.calçafe10 {
+  position: relative;
+  display: inline-block;
+}
+
+.calçafe10::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Altere a cor de fundo aqui */
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.calçafe10:hover::before {
   opacity: 1;
 }
 

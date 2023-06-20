@@ -82,6 +82,31 @@ h2 {
   padding-bottom: 20px; 
 }
 
+.menu-footer .social-media-links  img {
+    margin: 0 40px;
+    width: 30px;
+    height: 30px;
+}
+
+.menu-footer img:hover {
+    background-color: #006eff;
+    background-size: 20px;
+    border-radius: 15px;
+}
+
+a.links:link{
+    text-decoration:solid;
+}
+
+a.links:visited {
+    text-decoration: none;
+    color: #ff6600;
+}
+
+a.links:hover {
+    color: #006eff;
+    opacity: 0.8;
+}
 
 /*Moda Masculina*/
 

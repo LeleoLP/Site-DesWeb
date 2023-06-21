@@ -456,7 +456,7 @@ a.links:hover {
 
 /*Shorts Masculinos*/
 .shortsmasculinos img {
-  width: 500px;
+  width: 450px;
   height: auto;
 }
 
@@ -671,6 +671,10 @@ a.links:hover {
   }
 
 /*Calça Masculina*/
+.calçasmasculinas img {
+  width: 450px;
+  height: auto;
+}
 
 .calçamasc1 {
     position: relative;
@@ -883,6 +887,10 @@ a.links:hover {
   }
 
 /*Moletom masculino*/
+.moletonsmasculinos img {
+  width: 450px;
+  height: auto;
+}
 
 .moletommasc1 {
     position: relative;

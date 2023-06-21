@@ -455,6 +455,10 @@ a.links:hover {
 
 
 /*Shorts Masculinos*/
+.shortsmasculinos img {
+  width: 500px;
+  height: auto;
+}
 
 .shortmasc1 {
     position: relative;

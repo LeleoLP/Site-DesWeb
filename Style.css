@@ -32,7 +32,7 @@
     text-decoration: none;
     padding: 10px 12px;
     border-radius: 10px;
-    border-color: transparent;
+    border-color: black;
     margin-left: 5px;
     transition: background-color 1s ease;
 }

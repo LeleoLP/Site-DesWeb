@@ -109,9 +109,9 @@ a.links:hover {
 }
 
 /*Moda Masculina*/
-.camisetamasc1 {
-    width: 100%;
-    min-height: 300px;
+.camisetasmasculinas img {
+  max-width: 100%;
+  height: auto;
 }
 
 .camisetamasc1 {
@@ -137,10 +137,6 @@ a.links:hover {
 
 
 
-.camisetamasc2 {
-    width: 100%;
-    min-height: 300px;
-}
   .camisetamasc2 {
     position: relative;
     display: inline-block;
@@ -164,10 +160,6 @@ a.links:hover {
 
 
 .camisetamasc3 {
-    width: 100%;
-    min-height: 300px;
-}
-.camisetamasc3 {
     position: relative;
     display: inline-block;
   }
@@ -189,10 +181,6 @@ a.links:hover {
   }
 
 
-.camisetamasc4 {
-    width: 100%; 
-    min-height: 300px;
-}
   .camisetamasc4 {
     position: relative;
     display: inline-block;
@@ -215,10 +203,7 @@ a.links:hover {
   }
 
 
-.camisetamasc5 {
-    width: 100%;
-    min-height: 300px;
-}
+
   .camisetamasc5 {
     position: relative;
     display: inline-block;
@@ -241,10 +226,7 @@ a.links:hover {
   }
 
 
-.camisetamasc6 {
-    width: 100%;
-    min-height: 300px;
-}
+
   .camisetamasc6 {
     position: relative;
     display: inline-block;
@@ -267,10 +249,7 @@ a.links:hover {
   }
 
 
-.camisetamasc7 {
-    width: 100%;
-    min-height: 300px;
-}
+
   .camisetamasc7 {
     position: relative;
     display: inline-block;
@@ -293,10 +272,7 @@ a.links:hover {
   }
 
 
-.camisetamasc8 {
-    width: 100%;
-    min-height: 300px;
-}
+
   .camisetamasc8 {
     position: relative;
     display: inline-block;
@@ -319,10 +295,7 @@ a.links:hover {
   }
 
 
-.camisetamasc9 {
-    width: 100%;
-    min-height: 300px;
-}
+
   .camisetamasc9 {
     position: relative;
     display: inline-block;
@@ -345,10 +318,7 @@ a.links:hover {
   }
 
 
-.camisetamasc10 {
-    width: 100%;
-    min-height: 300px;
-}
+
   .camisetamasc10 {
     position: relative;
     display: inline-block;
@@ -371,10 +341,7 @@ a.links:hover {
   }
 
 
-.camisetamasc11 {
-    width: 100%;
-    min-height: 300px;
-}
+
   .camisetamasc11 {
     position: relative;
     display: inline-block;
@@ -397,10 +364,7 @@ a.links:hover {
   }
 
 
-.camisetamasc12 {
-    width: 100%;
-    min-height: 300px;
-}
+
   .camisetamasc12 {
     position: relative;
     display: inline-block;
@@ -423,10 +387,7 @@ a.links:hover {
   }
 
 
-.camisetamasc13 {
-    width: 100%;
-    min-height: 300px;
-}
+
   .camisetamasc13 {
     position: relative;
     display: inline-block;
@@ -449,10 +410,6 @@ a.links:hover {
   }
 
 
-.camisetamasc14 {
-    width: 100%;
-    min-height: 300px;
-}
   .camisetamasc14 {
     position: relative;
     display: inline-block;
@@ -475,10 +432,6 @@ a.links:hover {
   }
 
 
-.camisetamasc15 {
-    width: 100%;
-    min-height: 300px;
-}
   .camisetamasc15 {
     position: relative;
     display: inline-block;
